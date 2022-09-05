@@ -2,6 +2,10 @@
 Projeto de um sistema Full Stack
 
 ### Alunos
-- Nome do aluno
-- Nome do aluno
-- Nome do aluno
+- Luiza 
+- Maria Eduarda 
+- Marcela Torro
+- Nicolle 
+- Guilherme Cifali
+
+## Tema do projeto 
