@@ -7,7 +7,7 @@ Projeto de um sistema Full Stack
 ### Alunos
 ```
 - Luiza 
-- Maria Eduarda 
+` - Maria Eduarda `
 - Marcela Torro
 - Nicolle 
 - Guilherme Cifali
